@@ -7,6 +7,7 @@ The project was created as part of an AWS Cloud website deployment assignment an
 
 ## Live Website
 
-AWS S3 website link:-
+website link:-
 
-http://cafe-aroma-jaskirat-2026.s3-website-us-east-1.amazonaws.com/
+https://cafe-aroma-six.vercel.app/
+
